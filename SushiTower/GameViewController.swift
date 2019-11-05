@@ -22,7 +22,7 @@ class GameViewController: UIViewController {
         skView.ignoresSiblingOrder = true
         scene.scaleMode = .aspectFill
         
-        // property to create  hitboxes 
+        // propertcsy to create  hitboxes
         skView.showsPhysics = true
         
         skView.presentScene(scene)        
