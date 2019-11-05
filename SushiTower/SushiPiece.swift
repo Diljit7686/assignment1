@@ -73,6 +73,4 @@ class SushiPiece: SKSpriteNode {
         fatalError("init(coder:) has not been implemented")
     }
     
-    // Mark:  Functions
-    // --------------------------------
-}
+    /

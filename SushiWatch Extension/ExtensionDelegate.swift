@@ -1,8 +1,8 @@
 //
-//  ExtensionDelegate.swift
-//  SushiWatch Extension
+//  AppDelegate.swift
+//  SushiTower
 //
-//  Created by AJAY BAJWA on 2019-11-01.
+//  Created by Parrot on 2019-02-14.
 //  Copyright © 2019 Parrot. All rights reserved.
 //
 
